@@ -14,7 +14,8 @@ own isolated work (unless stated otherwise), however they require jq,msmtp,
 curl and working internet connect to work correctly..
 
 If you would like to run this code you need to first install some dependencies like
-jq,curl,msmtp. And also configure the msmtp file.To run the script type: 
+jq,curl,msmtp. And also configure the msmtp fifile:///root/Documents/DoneProjects/README.md
+le.To run the script type: 
 'bash filename.sh --help' in terminal 
 
 ### File structure
